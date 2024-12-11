@@ -12,6 +12,8 @@ Se presenta en esta introducción:
 
 * Conexión a la capa de persistencia a través de application.properties en /resources
 
+* Uso de consultas existentes por defecto, consultas de modificacion y consultas personalizadas
+
 * Casos particulares donde los nombres de los atributos de las entidades Java no coincidan con los campos de las tablas en la persistencia (en este caso particular, MySQL)
 
 * Ejemplos en /resources/static de unos fragmentos de código sql para la creación y consultas de tablas básicas
