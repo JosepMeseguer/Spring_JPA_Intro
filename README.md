@@ -1,4 +1,4 @@
-# Spring_JPA_Intro
+# 2. Spring_JPA_Intro
 
 Introduccion a la gestión de la persistencia a traves de Spring JPA.
 
